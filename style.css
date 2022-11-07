@@ -72,6 +72,9 @@
         justify-content: center;
         align-items: center;
     }
+    .head .logo-img{
+        width: 40%;
+    }
     .head .head-item{
         width: 100%;
     }
